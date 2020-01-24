@@ -2,8 +2,6 @@ Kurulum
 
 kodu githubdan indirin. 
 
-git clone https://github.com/msaint72/gonullu.git 
-
 username password sorar, daha sonra ssh keyinizi githuba eklerseniz herseferinde şifre girmekten kurtulursunuz.
 
 idea import projects -> maven template > yaparak import edebilirsiniz, veya ideada import from version control diyerek ilk aşamada idea ile kodu indirebilirsiniz. 
